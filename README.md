@@ -37,7 +37,6 @@ Descripción breve del segundo proyecto. Puedes hablar sobre el propósito, herr
 
 Estoy profundizando mis conocimientos en:
 
-- Programación en C#
 - Angular
 - TypeScript
 - Arquitectura de Software
