@@ -28,7 +28,7 @@ Descripción breve del segundo proyecto. Puedes hablar sobre el propósito, herr
 
 - **Lenguajes:** C#, JavaScript, SQL
 - **Frameworks:** .NET, ASP.NET
-- **Bases de datos:** SQL Server, MySQL
+- **Bases de datos:** SQL Server, MySQL, Oracle SQL Developer
 - **Herramientas:** Git, Visual Studio, Azure DevOps
 
 ---
